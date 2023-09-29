@@ -16,7 +16,7 @@ with app.app_context():
 
     zz_plant = Plant(
         id=2,
-        name="ZZ Plant",
+        name = "ZZ Plant",
         image="./images/zz-plant.jpg",
         price=25.98,
     )
